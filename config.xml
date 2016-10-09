@@ -31,9 +31,10 @@
 	<gap:plugin name="cordova-plugin-media" />	
 		   
     <gap:plugin spec="https://github.com/mapsplugin/cordova-plugin-googlemaps.git" source="git" >
-       <param name="API_KEY_FOR_ANDROID" value="XXX" />
-       <param name="API_KEY_FOR_IOS" value="XXX" />
+       <param name="API_KEY_FOR_ANDROID" value="AIzaSyBCULSf3P3Q3O6ufqx58E80Y5BWNtuITOI" />
+       <param name="API_KEY_FOR_IOS" value="AIzaSyBwhUa3Fu1G8W_GzEWfcDorRgK9l3tRH0w" />
     </gap:plugin>
+
         
     <plugin name="cordova-plugin-insomnia" version="4.1.0" source="npm" />     
     
